@@ -20,7 +20,7 @@ inline std::ostream &operator<<(std::ostream &os, unsigned char c) {
 }
 }
 
-using namespace numerical_chars;
+//using namespace numerical_chars;
 
 struct test {
     int a{0};
